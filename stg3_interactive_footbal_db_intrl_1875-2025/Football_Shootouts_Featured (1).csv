@@ -1,0 +1,651 @@
+date,home_team,away_team,winner,first_shooter,first_shooter_advantage,winner_is_home,home_advantage,match_era,shootout_order_winner
+1967-08-22,India,Taiwan,Taiwan,,0,0,1,1960,second
+1971-11-14,South Korea,Vietnam Republic,South Korea,,0,1,1,1970,second
+1972-05-07,South Korea,Iraq,Iraq,,0,0,1,1970,second
+1972-05-17,Thailand,South Korea,South Korea,,0,0,1,1970,second
+1972-05-19,Thailand,Cambodia,Thailand,,0,1,1,1970,second
+1973-04-21,Senegal,Ghana,Ghana,,0,0,1,1970,second
+1973-06-14,Guinea,Mali,Guinea,,0,1,1,1970,second
+1973-06-14,Mauritius,Tanzania,Mauritius,,0,1,1,1970,second
+1973-07-26,Malaysia,Kuwait,Malaysia,,0,1,1,1970,second
+1973-07-26,Cambodia,Singapore,Singapore,,0,0,1,1970,second
+1973-07-27,Bangladesh,Thailand,Thailand,,0,0,1,1970,second
+1973-07-28,Myanmar,South Korea,Myanmar,,0,1,1,1970,second
+1973-08-09,India,Vietnam Republic,Vietnam Republic,,0,0,1,1970,second
+1973-08-23,Algeria,Syria,Syria,,0,0,1,1970,second
+1973-08-25,Algeria,Iraq,Algeria,,0,1,1,1970,second
+1973-09-06,Singapore,Vietnam Republic,Vietnam Republic,,0,0,1,1970,second
+1974-03-28,Qatar,United Arab Emirates,Qatar,,0,1,1,1970,second
+1974-07-24,Hong Kong,Indonesia,Indonesia,,0,0,1,1970,second
+1974-08-01,India,Indonesia,Indonesia,,0,0,1,1970,second
+1974-10-09,Syria,Morocco,Morocco,,0,0,1,1970,second
+1974-11-22,Libya,Tunisia,Tunisia,,0,0,1,1970,second
+1974-12-18,South Korea,Malaysia,South Korea,,0,1,1,1970,second
+1975-07-13,Morocco,Ghana,Morocco,,0,1,1,1970,second
+1975-11-09,Kenya,Malawi,Kenya,,0,1,1,1970,second
+1975-12-09,Thailand,Malaysia,Thailand,,0,1,1,1970,second
+1975-12-23,Libya,Syria,Syria,,0,0,1,1970,second
+1976-06-20,Czechoslovakia,Germany,Czechoslovakia,Czechoslovakia,1,1,1,1970,first
+1976-12-22,South Korea,Malaysia,Malaysia,,0,0,1,1970,second
+1977-01-09,Tunisia,Morocco,Tunisia,,0,1,1,1970,second
+1977-03-22,Argentina,Iran,Argentina,,0,1,1,1970,second
+1977-06-26,Zambia,Algeria,Zambia,,0,1,1,1970,second
+1977-07-27,Iran,Morocco,Iran,,0,1,1,1970,second
+1977-08-31,Paraguay,Argentina,Paraguay,,0,1,1,1970,second
+1979-01-13,Guinea-Bissau,Mali,Mali,,0,0,1,1970,second
+1979-01-14,Guinea-Bissau,Guinea,Guinea,,0,0,1,1970,second
+1979-04-29,Cameroon,Guinea,Guinea,,0,0,1,1970,second
+1979-05-22,Argentina,Netherlands,Argentina,Argentina,1,1,1,1970,first
+1979-08-31,Seychelles,Mauritius,Seychelles,,0,1,1,1970,second
+1979-09-29,Indonesia,Thailand,Indonesia,,0,1,1,1970,second
+1980-02-16,Gambia,Mauritania,Gambia,,0,1,1,1980,second
+1980-03-19,Algeria,Egypt,Algeria,,0,1,1,1980,second
+1980-06-21,Italy,Czechoslovakia,Czechoslovakia,Italy,0,0,1,1980,second
+1980-07-12,Nigeria,Tunisia,Nigeria,,0,1,1,1980,second
+1980-11-30,Zambia,Morocco,Morocco,,0,0,1,1980,second
+1980-12-31,Hong Kong,China PR,China PR,,0,0,1,1980,second
+1981-02-13,Mali,Guinea,Guinea,,0,0,1,1980,second
+1981-05-10,Rwanda,Ethiopia,Ethiopia,,0,0,1,1980,second
+1981-12-13,Malaysia,Singapore,Malaysia,,0,1,1,1980,second
+1982-02-21,Ivory Coast,Togo,Togo,,0,0,1,1980,second
+1982-02-22,Ivory Coast,Burkina Faso,Burkina Faso,,0,0,1,1980,second
+1982-03-19,Libya,Ghana,Ghana,,0,0,1,1980,second
+1982-05-15,Thailand,Singapore,Thailand,,0,1,1,1980,second
+1982-05-17,Thailand,South Korea,Thailand,,0,1,1,1980,second
+1982-07-08,Germany,France,Germany,France,0,1,1,1980,second
+1982-10-17,Indonesia,Malaysia,Indonesia,,0,1,1,1980,second
+1982-11-27,Uganda,Kenya,Kenya,,0,0,1,1980,second
+1983-02-06,Senegal,Niger,Senegal,,0,1,1,1980,second
+1983-02-20,Gambia,Sierra Leone,Gambia,,0,1,1,1980,second
+1983-02-27,Mali,Guinea,Mali,,0,1,1,1980,second
+1983-04-22,Egypt,Congo,Egypt,,0,1,1,1980,second
+1983-04-24,Mauritius,Ethiopia,Ethiopia,,0,0,1,1980,second
+1983-06-04,Thailand,Malaysia,Thailand,,0,1,1,1980,second
+1983-07-18,Hong Kong,Thailand,Thailand,,0,0,1,1980,second
+1983-08-28,Morocco,Nigeria,Nigeria,,0,0,1,1980,second
+1983-12-15,Ivory Coast,Mali,Ivory Coast,,0,1,1,1980,second
+1983-12-18,Mali,Nigeria,Mali,,0,1,1,1980,second
+1984-02-16,Sierra Leone,Mali,Sierra Leone,,0,1,1,1980,second
+1984-02-19,Sierra Leone,Senegal,Senegal,,0,0,1,1980,second
+1984-03-14,Egypt,Nigeria,Nigeria,,0,0,1,1980,second
+1984-03-14,Algeria,Cameroon,Cameroon,,0,0,1,1980,second
+1984-03-28,Iraq,Qatar,Iraq,,0,1,1,1980,second
+1984-06-24,Denmark,Spain,Spain,Denmark,0,0,1,1980,second
+1984-07-15,Senegal,Angola,Angola,,0,0,1,1980,second
+1984-11-23,Kenya,Somalia,Kenya,,0,1,1,1980,second
+1984-11-28,Ghana,Togo,Ghana,,0,1,1,1980,second
+1984-12-08,Kenya,Somalia,Kenya,,0,1,1,1980,second
+1984-12-13,Saudi Arabia,Iran,Saudi Arabia,,0,1,1,1980,second
+1984-12-15,Malawi,Zambia,Zambia,,0,0,1,1980,second
+1984-12-16,Iran,Kuwait,Kuwait,,0,0,1,1980,second
+1984-12-16,Chad,Equatorial Guinea,Chad,,0,1,1,1980,second
+1984-12-19,Central African Republic,Gabon,Gabon,,0,0,1,1980,second
+1984-12-20,Congo,Cameroon,Cameroon,,0,0,1,1980,second
+1985-04-16,Mozambique,Malawi,Mozambique,,0,1,1,1980,second
+1985-04-21,Madagascar,Egypt,Egypt,,0,0,1,1980,second
+1985-07-10,Bahrain,Qatar,Bahrain,,0,1,1,1980,second
+1985-07-12,Saudi Arabia,Qatar,Saudi Arabia,,0,1,1,1980,second
+1985-08-25,Mali,Guinea,Guinea,,0,0,1,1980,second
+1985-08-31,Mauritius,Réunion,Mauritius,,0,1,1,1980,second
+1985-09-15,Mozambique,Libya,Mozambique,,0,1,1,1980,second
+1985-10-11,Kenya,Uganda,Kenya,,0,1,1,1980,second
+1985-12-15,Singapore,Malaysia,Singapore,,0,1,1,1980,second
+1985-12-25,Pakistan,Nepal,Nepal,,0,0,1,1980,second
+1985-12-25,Bangladesh,India,India,,0,0,1,1980,second
+1986-03-21,Egypt,Cameroon,Egypt,,0,1,1,1980,second
+1986-06-21,Brazil,France,France,Brazil,0,0,1,1980,second
+1986-06-21,Mexico,Germany,Germany,Germany,1,0,1,1980,first
+1986-06-22,Spain,Belgium,Belgium,Spain,0,0,1,1980,second
+1986-10-01,Saudi Arabia,Iraq,Saudi Arabia,,0,1,1,1980,second
+1986-10-01,South Korea,Iran,South Korea,,0,1,1,1980,second
+1986-10-01,United Arab Emirates,Indonesia,Indonesia,,0,0,1,1980,second
+1986-10-01,Kuwait,China PR,Kuwait,,0,1,1,1980,second
+1986-10-03,Saudi Arabia,Kuwait,Saudi Arabia,,0,1,1,1980,second
+1986-10-19,Gabon,Angola,Angola,,0,0,1,1980,second
+1986-12-17,Chad,Gabon,Chad,,0,1,1,1980,second
+1987-03-01,Mali,Sierra Leone,Mali,,0,1,1,1980,second
+1987-03-02,Senegal,Sierra Leone,Senegal,,0,1,1,1980,second
+1987-06-19,Australia,Egypt,Australia,,0,1,1,1980,second
+1987-06-21,South Korea,Australia,South Korea,,0,1,1,1980,second
+1987-07-19,DR Congo,Senegal,DR Congo,,0,1,1,1980,second
+1987-08-08,Ivory Coast,Madagascar,Ivory Coast,,0,1,1,1980,second
+1987-08-09,Cameroon,Egypt,Egypt,,0,0,1,1980,second
+1987-08-10,Kenya,Malawi,Malawi,,0,0,1,1980,second
+1987-12-13,Malawi,Zimbabwe,Zimbabwe,,0,0,1,1980,second
+1987-12-18,Equatorial Guinea,Gabon,Gabon,,0,0,1,1980,second
+1987-12-27,Ethiopia,Zimbabwe,Ethiopia,,0,1,1,1980,second
+1988-01-06,South Korea,Egypt,South Korea,,0,1,1,1980,second
+1988-03-23,Algeria,Nigeria,Nigeria,,0,0,1,1980,second
+1988-03-26,Morocco,Algeria,Algeria,,0,0,1,1980,second
+1988-03-31,Germany,Sweden,Sweden,Sweden,1,0,1,1980,first
+1988-05-05,Mali,Senegal,Mali,,0,1,1,1980,second
+1988-05-08,Guinea,Mali,Guinea,,0,1,1,1980,second
+1988-05-28,Canada,Greece,Canada,,0,1,1,1980,second
+1988-07-19,Egypt,Syria,Syria,,0,0,1,1980,second
+1988-07-21,Iraq,Syria,Iraq,,0,1,1,1980,second
+1988-09-29,Chile,Ecuador,Ecuador,,0,0,1,1980,second
+1988-10-16,Eswatini,Tanzania,Eswatini,,0,1,1,1980,second
+1988-12-06,Central African Republic,Gabon,Gabon,,0,0,1,1980,second
+1988-12-17,China PR,Iran,Iran,,0,0,1,1980,second
+1988-12-18,South Korea,Saudi Arabia,Saudi Arabia,South Korea,0,0,1,1980,second
+1989-04-23,Ghana,Gabon,Gabon,,0,0,1,1980,second
+1989-04-23,Kenya,Sudan,Kenya,,0,1,1,1980,second
+1989-08-30,Indonesia,Thailand,Indonesia,,0,1,1,1980,second
+1989-11-08,Iran,Uganda,Uganda,,0,0,1,1980,second
+1989-11-12,Iraq,Uganda,Iraq,,0,1,1,1980,second
+1989-12-11,Chad,Cameroon,Cameroon,,0,0,1,1980,second
+1989-12-16,Malawi,Uganda,Uganda,,0,0,1,1980,second
+1990-01-28,Nigeria,Senegal,Nigeria,,0,1,1,1990,second
+1990-02-04,United States,Colombia,Colombia,Colombia,1,0,1,1990,first
+1990-02-20,Colombia,Russia,Colombia,Colombia,1,1,1,1990,first
+1990-05-18,Zimbabwe,Eswatini,Zimbabwe,,0,1,1,1990,second
+1990-06-25,Republic of Ireland,Romania,Republic of Ireland,Romania,0,1,1,1990,second
+1990-06-30,Yugoslavia,Argentina,Argentina,Argentina,1,0,1,1990,first
+1990-07-03,Italy,Argentina,Argentina,Italy,0,0,1,1990,second
+1990-07-04,Germany,England,Germany,England,0,1,1,1990,second
+1990-08-03,China PR,South Korea,South Korea,,0,0,1,1990,second
+1990-10-01,Saudi Arabia,North Korea,North Korea,,0,0,1,1990,second
+1990-10-06,Iran,North Korea,Iran,,0,1,1,1990,second
+1990-12-17,Tanzania,Uganda,Uganda,,0,0,1,1990,second
+1990-12-17,Central African Republic,Equatorial Guinea,Central African Republic,,0,1,1,1990,second
+1991-01-21,Cameroon,Algeria,Cameroon,,0,1,1,1990,second
+1991-01-21,Senegal,Ivory Coast,Ivory Coast,,0,0,1,1990,second
+1991-01-22,Senegal,Algeria,Senegal,,0,1,1,1990,second
+1991-01-23,Ivory Coast,Cameroon,Ivory Coast,,0,1,1,1990,second
+1991-06-14,South Korea,Australia,South Korea,,0,1,1,1990,second
+1991-06-16,Italy,Russia,Italy,Russia,0,1,1,1990,second
+1991-07-07,United States,Honduras,United States,United States,1,1,1,1990,first
+1991-08-08,Czechoslovakia,Yugoslavia,Czechoslovakia,,0,1,1,1990,second
+1991-09-20,Fiji,Solomon Islands,Fiji,,0,1,1,1990,second
+1991-09-28,Egypt,Mali,Egypt,,0,1,1,1990,second
+1991-12-02,Indonesia,Singapore,Indonesia,,0,1,1,1990,second
+1991-12-04,Indonesia,Thailand,Indonesia,,0,1,1,1990,second
+1992-01-23,Cameroon,Ivory Coast,Ivory Coast,Ivory Coast,1,0,1,1990,first
+1992-01-26,Ghana,Ivory Coast,Ivory Coast,Ivory Coast,1,0,1,1990,first
+1992-06-22,Netherlands,Denmark,Denmark,Netherlands,0,0,1,1990,second
+1992-06-27,Cuba,Martinique,Martinique,,0,0,1,1990,second
+1992-08-29,Japan,South Korea,Japan,,0,1,1,1990,second
+1992-09-15,Syria,Egypt,Egypt,,0,0,1,1990,second
+1992-11-08,China PR,United Arab Emirates,China PR,,0,1,1,1990,second
+1992-11-25,Uganda,Zambia,Uganda,,0,1,1,1990,second
+1993-01-23,Japan,Switzerland,Switzerland,,0,0,1,1990,second
+1993-02-20,Finland,Estonia,Finland,,0,1,1,1990,second
+1993-02-24,Argentina,Denmark,Argentina,Argentina,1,1,1,1990,first
+1993-05-27,Bolivia,Paraguay,Bolivia,,0,1,1,1990,second
+1993-05-28,Martinique,Saint Kitts and Nevis,Martinique,,0,1,1,1990,second
+1993-05-30,Jamaica,Martinique,Martinique,,0,0,1,1990,second
+1993-06-17,Singapore,Myanmar,Singapore,,0,1,1,1990,second
+1993-06-26,Colombia,Uruguay,Colombia,Colombia,1,1,1,1990,first
+1993-06-27,Brazil,Argentina,Argentina,Brazil,0,0,1,1990,second
+1993-07-01,Colombia,Argentina,Argentina,Colombia,0,0,1,1990,second
+1993-08-15,Australia,Canada,Australia,Australia,1,1,1,1990,first
+1993-10-24,Burundi,Guinea,Guinea,,0,0,1,1990,second
+1993-12-26,Nepal,India,Nepal,,0,1,1,1990,second
+1994-01-29,Burkina Faso,Guinea,Burkina Faso,,0,1,1,1990,second
+1994-04-06,Nigeria,Ivory Coast,Nigeria,Nigeria,1,1,1,1990,first
+1994-07-05,Mexico,Bulgaria,Bulgaria,Mexico,0,0,1,1990,second
+1994-07-10,Romania,Sweden,Sweden,Sweden,1,0,1,1990,first
+1994-07-17,Brazil,Italy,Brazil,Italy,0,1,1,1990,second
+1994-12-08,Tanzania,Uganda,Tanzania,,0,1,1,1990,second
+1995-01-10,Denmark,Mexico,Denmark,Denmark,1,1,1,1990,first
+1995-01-13,Mexico,Nigeria,Mexico,Nigeria,0,1,1,1990,second
+1995-02-26,Japan,South Korea,Japan,,0,1,1,1990,second
+1995-03-31,India,Bangladesh,India,,0,1,1,1990,second
+1995-05-21,Antigua and Barbuda,Saint Kitts and Nevis,Antigua and Barbuda,,0,1,1,1990,second
+1995-06-09,Paraguay,Bolivia,Paraguay,,0,1,1,1990,second
+1995-07-16,Paraguay,Colombia,Colombia,Colombia,1,0,1,1990,first
+1995-07-17,United States,Mexico,United States,United States,1,1,1,1990,first
+1995-07-17,Brazil,Argentina,Brazil,Brazil,1,1,1,1990,first
+1995-07-23,Uruguay,Brazil,Uruguay,Uruguay,1,1,1,1990,first
+1995-08-24,Fiji,Solomon Islands,Solomon Islands,,0,0,1,1990,second
+1995-11-28,Mauritania,Sierra Leone,Sierra Leone,,0,0,1,1990,second
+1995-12-02,Gabon,Cameroon,Cameroon,,0,0,1,1990,second
+1995-12-02,Algeria,Ivory Coast,Ivory Coast,,0,0,1,1990,second
+1995-12-06,Ethiopia,Zanzibar,Zanzibar,,0,0,1,1990,second
+1995-12-07,Honduras,Costa Rica,Honduras,,0,1,1,1990,second
+1995-12-25,Bangladesh,Sri Lanka,Bangladesh,,0,1,1,1990,second
+1995-12-27,Sri Lanka,Nepal,Sri Lanka,,0,1,1,1990,second
+1996-01-28,Gabon,Tunisia,Tunisia,Tunisia,1,0,1,1990,first
+1996-02-22,Japan,Sweden,Sweden,,0,0,1,1990,second
+1996-04-28,Barbados,Jamaica,Jamaica,,0,0,1,1990,second
+1996-05-05,Guyana,Suriname,Suriname,,0,0,1,1990,second
+1996-06-05,Martinique,Suriname,Martinique,,0,1,1,1990,second
+1996-06-22,England,Spain,England,England,1,1,1,1990,first
+1996-06-22,France,Netherlands,France,Netherlands,0,1,1,1990,second
+1996-06-26,France,Czech Republic,Czech Republic,France,0,0,1,1990,second
+1996-06-26,England,Germany,Germany,England,0,0,1,1990,second
+1996-08-25,Ethiopia,Uganda,Ethiopia,,0,1,1,1990,second
+1996-11-29,Sudan,Kenya,Sudan,,0,1,1,1990,second
+1996-12-11,Morocco,Croatia,Croatia,,0,0,1,1990,second
+1996-12-12,Croatia,Czech Republic,Croatia,,0,1,1,1990,second
+1996-12-19,Iran,Saudi Arabia,Saudi Arabia,Iran,0,0,1,1990,second
+1996-12-21,Iran,Kuwait,Iran,Kuwait,0,1,1,1990,second
+1996-12-21,United Arab Emirates,Saudi Arabia,Saudi Arabia,Saudi Arabia,1,0,1,1990,first
+1996-12-27,Benin,Burkina Faso,Benin,,0,1,1,1990,second
+1997-02-07,Russia,Serbia,Russia,,0,1,1,1990,second
+1997-04-10,India,Iraq,Iraq,,0,0,1,1990,second
+1997-06-22,Ecuador,Mexico,Mexico,Ecuador,0,0,1,1990,second
+1997-07-10,Trinidad and Tobago,Jamaica,Trinidad and Tobago,,0,1,1,1990,second
+1997-10-18,Indonesia,Thailand,Thailand,,0,0,1,1990,second
+1997-10-20,Haiti,Cuba,Haiti,,0,1,1,1990,second
+1997-10-22,Cuba,Cameroon,Cuba,,0,1,1,1990,second
+1997-12-07,Gambia,Guinea,Guinea,,0,0,1,1990,second
+1998-01-31,Egypt,South Korea,South Korea,,0,0,1,1990,second
+1998-01-31,Iran,Chile,Iran,,0,1,1,1990,second
+1998-02-21,Burkina Faso,Tunisia,Burkina Faso,Burkina Faso,1,1,1,1990,first
+1998-02-21,Ivory Coast,Egypt,Egypt,Ivory Coast,0,0,1,1990,second
+1998-02-27,Burkina Faso,DR Congo,DR Congo,DR Congo,1,0,1,1990,first
+1998-04-22,Hungary,North Macedonia,Hungary,,0,1,1,1990,second
+1998-05-29,Belgium,England,Belgium,Belgium,1,1,1,1990,first
+1998-05-29,Morocco,France,Morocco,Morocco,1,1,1,1990,first
+1998-06-30,Argentina,England,Argentina,Argentina,1,1,1,1990,first
+1998-07-03,France,Italy,France,France,1,1,1,1990,first
+1998-07-07,Brazil,Netherlands,Brazil,Brazil,1,1,1,1990,first
+1998-08-15,Réunion,Madagascar,Réunion,,0,1,1,1990,second
+1998-09-05,Indonesia,Thailand,Indonesia,,0,1,1,1990,second
+1998-11-17,Guatemala,Honduras,Guatemala,,0,1,1,1990,second
+1998-11-18,Guatemala,Mexico,Guatemala,,0,1,1,1990,second
+1998-12-02,United Arab Emirates,North Korea,United Arab Emirates,,0,1,1,1990,second
+1998-12-14,Qatar,Kuwait,Kuwait,,0,0,1,1990,second
+1999-05-22,Malawi,Namibia,Namibia,,0,0,1,1990,second
+1999-06-16,Thailand,New Zealand,Thailand,,0,1,1,1990,second
+1999-06-19,New Zealand,Poland,Poland,,0,0,1,1990,second
+1999-07-10,Mexico,Peru,Mexico,Mexico,1,1,1,1990,first
+1999-07-10,Paraguay,Uruguay,Uruguay,Uruguay,1,0,1,1990,first
+1999-07-13,Uruguay,Chile,Uruguay,Uruguay,1,1,1,1990,first
+1999-07-18,Eswatini,Zimbabwe,Eswatini,,0,1,1,1990,second
+1999-07-31,Namibia,South Africa,Namibia,,0,1,1,1990,second
+1999-08-03,Rwanda,Kenya,Kenya,,0,0,1,1990,second
+1999-08-07,Rwanda,Burundi,Rwanda,,0,1,1,1990,second
+1999-08-07,Zambia,Mozambique,Zambia,,0,1,1,1990,second
+1999-08-14,Indonesia,Singapore,Indonesia,,0,1,1,1990,second
+1999-08-28,Namibia,Eswatini,Namibia,,0,1,1,1990,second
+1999-11-26,Gabon,Togo,Togo,,0,0,1,1990,second
+2000-02-04,Romania,Georgia,Romania,,0,1,1,2000,second
+2000-02-12,South Africa,Tunisia,South Africa,South Africa,1,1,1,2000,first
+2000-02-13,Nigeria,Cameroon,Cameroon,Nigeria,0,0,1,2000,second
+2000-02-19,United States,Colombia,Colombia,United States,0,0,1,2000,second
+2000-03-19,Suriname,Saint Lucia,Suriname,,0,1,1,2000,second
+2000-04-29,British Virgin Islands,Sint Maarten,British Virgin Islands,,0,1,1,2000,second
+2000-04-30,British Virgin Islands,Antigua and Barbuda,Antigua and Barbuda,,0,0,1,2000,second
+2000-05-10,Maldives,Sri Lanka,Sri Lanka,,0,0,1,2000,second
+2000-05-11,Senegal,Mali,Senegal,,0,1,1,2000,second
+2000-05-20,Malawi,Angola,Angola,,0,0,1,2000,second
+2000-05-21,Barbados,Cuba,Barbados,,0,1,1,2000,second
+2000-06-04,France,Japan,France,France,1,1,1,2000,first
+2000-06-07,Iran,Egypt,Egypt,,0,0,1,2000,second
+2000-06-11,Lesotho,Zambia,Lesotho,,0,1,1,2000,second
+2000-06-29,Netherlands,Italy,Italy,Italy,1,0,1,2000,first
+2000-07-14,Libya,Chad,Libya,,0,1,1,2000,second
+2000-07-16,Mozambique,Lesotho,Lesotho,,0,0,1,2000,second
+2000-09-03,Togo,Sierra Leone,Togo,,0,1,1,2000,second
+2000-10-04,United Arab Emirates,South Korea,United Arab Emirates,,0,1,1,2000,second
+2000-10-28,Kenya,Uganda,Uganda,,0,0,1,2000,second
+2000-12-02,Ethiopia,Rwanda,Ethiopia,,0,1,1,2000,second
+2001-01-17,China PR,Egypt,Egypt,,0,0,1,2000,second
+2001-01-27,South Korea,Paraguay,South Korea,,0,1,1,2000,second
+2001-02-11,Eswatini,Zambia,Eswatini,,0,1,1,2000,second
+2001-07-12,Ynys Môn,Jersey,Ynys Môn,,0,1,1,2000,second
+2001-07-13,Guernsey,Ynys Môn,Guernsey,,0,1,1,2000,second
+2001-07-29,Uruguay,Honduras,Honduras,Uruguay,0,0,1,2000,second
+2001-08-03,China PR,North Korea,North Korea,,0,0,1,2000,second
+2001-08-03,Kuwait,Trinidad and Tobago,Kuwait,,0,1,1,2000,second
+2001-08-05,Kuwait,North Korea,North Korea,,0,0,1,2000,second
+2001-08-18,Zambia,Angola,Angola,,0,0,1,2000,second
+2001-10-24,Kenya,Uganda,Kenya,,0,1,1,2000,second
+2001-10-24,Tanzania,DR Congo,Tanzania,,0,1,1,2000,second
+2001-12-18,Ethiopia,Burundi,Ethiopia,,0,1,1,2000,second
+2002-01-06,Martinique,Haiti,Martinique,,0,1,1,2000,second
+2002-01-26,Canada,Martinique,Canada,Canada,1,1,1,2000,first
+2002-01-27,Mexico,South Korea,South Korea,South Korea,1,0,1,2000,first
+2002-01-30,United States,Canada,United States,United States,1,1,1,2000,first
+2002-02-10,Senegal,Cameroon,Cameroon,Cameroon,1,0,1,2000,first
+2002-02-12,Cyprus,Switzerland,Cyprus,,0,1,1,2000,second
+2002-02-15,China PR,Slovenia,Slovenia,,0,0,1,2000,second
+2002-02-16,Thailand,North Korea,North Korea,,0,0,1,2000,second
+2002-03-30,Botswana,South Africa,South Africa,,0,0,1,2000,second
+2002-05-17,Russia,Belarus,Belarus,,0,0,1,2000,second
+2002-05-19,Russia,Serbia,Serbia,,0,0,1,2000,second
+2002-06-16,Spain,Republic of Ireland,Spain,Republic of Ireland,0,1,1,2000,second
+2002-06-22,South Korea,Spain,South Korea,South Korea,1,1,1,2000,first
+2002-07-21,South Africa,Madagascar,South Africa,,0,1,1,2000,second
+2002-09-05,Iraq,Iran,Iraq,,0,1,1,2000,second
+2002-09-07,Syria,Iran,Iran,,0,0,1,2000,second
+2002-09-17,Iran,Morocco,Iran,,0,1,1,2000,second
+2002-09-19,Iran,Paraguay,Iran,,0,1,1,2000,second
+2002-10-23,Kenya,South Africa,Kenya,,0,1,1,2000,second
+2002-10-26,Tanzania,South Africa,South Africa,,0,0,1,2000,second
+2002-10-26,Kenya,Uganda,Kenya,,0,1,1,2000,second
+2002-11-19,South Africa,Senegal,Senegal,,0,0,1,2000,second
+2002-12-27,Niger,Burkina Faso,Burkina Faso,,0,0,1,2000,second
+2002-12-29,Niger,Mali,Niger,,0,1,1,2000,second
+2003-01-20,Bangladesh,Maldives,Bangladesh,,0,1,1,2000,second
+2003-02-04,Uruguay,Iran,Uruguay,Iran,0,1,1,2000,second
+2003-03-07,Benin,Niger,Benin,,0,1,1,2000,second
+2003-03-15,Guadeloupe,French Guiana,Guadeloupe,,0,1,1,2000,second
+2003-03-22,Mozambique,Lesotho,Mozambique,,0,1,1,2000,second
+2003-03-27,Tunisia,Ghana,Tunisia,,0,1,1,2000,second
+2003-03-30,Ghana,Madagascar,Ghana,,0,1,1,2000,second
+2003-05-24,Botswana,Malawi,Malawi,,0,0,1,2000,second
+2003-07-09,New Caledonia,Vanuatu,New Caledonia,,0,1,1,2000,second
+2003-08-16,Malawi,Zambia,Malawi,,0,1,1,2000,second
+2003-09-24,Algeria,Gabon,Algeria,,0,1,1,2000,second
+2003-09-26,Algeria,Burkina Faso,Algeria,,0,1,1,2000,second
+2003-12-08,Kenya,Rwanda,Rwanda,,0,0,1,2000,second
+2003-12-08,Sudan,Uganda,Uganda,,0,0,1,2000,second
+2004-02-11,Tunisia,Nigeria,Tunisia,Tunisia,1,1,1,2000,first
+2004-02-19,Kazakhstan,Armenia,Kazakhstan,,0,1,1,2000,second
+2004-02-28,Lesotho,Botswana,Botswana,,0,0,1,2000,second
+2004-06-23,Jordan,Syria,Syria,,0,0,1,2000,second
+2004-06-24,Portugal,England,Portugal,England,0,1,1,2000,second
+2004-06-26,Sweden,Netherlands,Netherlands,Sweden,0,0,1,2000,second
+2004-07-18,Angola,Botswana,Angola,,0,1,1,2000,second
+2004-07-21,Uruguay,Brazil,Brazil,Brazil,1,0,1,2000,first
+2004-07-25,Argentina,Brazil,Brazil,Argentina,0,0,1,2000,second
+2004-07-30,Uzbekistan,Bahrain,Bahrain,Bahrain,1,0,1,2000,first
+2004-07-31,Japan,Jordan,Japan,Japan,1,1,1,2000,first
+2004-08-03,China PR,Iran,China PR,China PR,1,1,1,2000,first
+2004-10-22,Nigeria,Ecuador,Ecuador,,0,0,1,2000,second
+2004-10-24,Zimbabwe,Zambia,Zambia,,0,0,1,2000,second
+2004-11-20,Zambia,Angola,Angola,,0,0,1,2000,second
+2004-11-30,Thailand,Estonia,Thailand,,0,1,1,2000,second
+2004-11-30,Singapore,Hong Kong,Hong Kong,,0,0,1,2000,second
+2004-12-02,Thailand,Slovakia,Slovakia,,0,0,1,2000,second
+2004-12-03,Bahrain,Latvia,Bahrain,,0,1,1,2000,second
+2004-12-03,Finland,Oman,Oman,,0,0,1,2000,second
+2004-12-22,Ethiopia,Kenya,Ethiopia,,0,1,1,2000,second
+2004-12-24,Qatar,Oman,Qatar,,0,1,1,2000,second
+2005-02-08,Cyprus,Austria,Cyprus,,0,1,1,2000,second
+2005-02-09,Austria,Latvia,Latvia,,0,0,1,2000,second
+2005-02-27,Costa Rica,Honduras,Costa Rica,,0,1,1,2000,second
+2005-04-16,Namibia,Botswana,Botswana,,0,0,1,2000,second
+2005-05-15,Jersey,Guernsey,Guernsey,,0,0,1,2000,second
+2005-06-26,Mexico,Argentina,Argentina,Mexico,0,0,1,2000,second
+2005-07-17,South Africa,Panama,Panama,Panama,1,0,1,2000,first
+2005-07-24,United States,Panama,United States,Panama,0,1,1,2000,second
+2005-07-28,Kuwait,United Arab Emirates,United Arab Emirates,,0,0,1,2000,second
+2005-07-30,Egypt,United Arab Emirates,Egypt,,0,1,1,2000,second
+2005-08-13,South Africa,Zambia,Zambia,,0,0,1,2000,second
+2005-08-15,Ukraine,Israel,Israel,,0,0,1,2000,second
+2005-11-16,Australia,Uruguay,Australia,Australia,1,1,1,2000,first
+2005-12-10,Syria,Iraq,Iraq,,0,0,1,2000,second
+2005-12-10,Zanzibar,Uganda,Zanzibar,,0,1,1,2000,second
+2006-02-04,Nigeria,Tunisia,Nigeria,Nigeria,1,1,1,2000,first
+2006-02-04,Cameroon,Ivory Coast,Ivory Coast,Cameroon,0,0,1,2000,second
+2006-02-10,Egypt,Ivory Coast,Egypt,Egypt,1,1,1,2000,first
+2006-02-28,Finland,Kazakhstan,Kazakhstan,,0,0,1,2000,second
+2006-03-01,Finland,Belarus,Finland,,0,1,1,2000,second
+2006-04-29,Lesotho,Mozambique,Lesotho,,0,1,1,2000,second
+2006-04-30,Mauritius,Mozambique,Mozambique,,0,0,1,2000,second
+2006-05-21,Botswana,South Africa,Botswana,,0,1,1,2000,second
+2006-06-03,Northern Cyprus,Zanzibar,Northern Cyprus,,0,1,1,2000,second
+2006-06-26,Switzerland,Ukraine,Ukraine,Ukraine,1,0,1,2000,first
+2006-06-30,Germany,Argentina,Germany,Germany,1,1,1,2000,first
+2006-07-01,England,Portugal,Portugal,Portugal,1,0,1,2000,first
+2006-07-09,Italy,France,Italy,Italy,1,1,1,2000,first
+2006-07-22,Namibia,Seychelles,Seychelles,,0,0,1,2000,second
+2007-04-29,Mozambique,Zimbabwe,Mozambique,,0,1,1,2000,second
+2007-05-06,Guernsey,Jersey,Jersey,,0,0,1,2000,second
+2007-05-26,Malawi,South Africa,South Africa,,0,0,1,2000,second
+2007-05-26,Eswatini,Mauritius,Mauritius,,0,0,1,2000,second
+2007-07-10,Uruguay,Brazil,Brazil,Brazil,1,0,1,2000,first
+2007-07-21,Japan,Australia,Japan,Australia,0,1,1,2000,second
+2007-07-22,Iran,South Korea,South Korea,South Korea,1,0,1,2000,first
+2007-07-25,Iraq,South Korea,Iraq,South Korea,0,1,1,2000,second
+2007-07-28,South Korea,Japan,South Korea,South Korea,1,1,1,2000,first
+2007-07-29,Botswana,Angola,Botswana,,0,1,1,2000,second
+2007-08-18,Mauritius,Mayotte,Mayotte,,0,0,1,2000,second
+2007-08-18,Madagascar,Réunion,Réunion,,0,0,1,2000,second
+2007-10-24,South Africa,Zambia,South Africa,,0,1,1,2000,second
+2008-05-05,Jersey,Guernsey,Jersey,,0,1,1,2000,second
+2008-06-20,Croatia,Turkey,Turkey,Croatia,0,0,1,2000,second
+2008-06-22,Spain,Italy,Spain,Spain,1,1,1,2000,first
+2008-07-27,Zambia,Zimbabwe,Zambia,,0,1,1,2000,second
+2008-09-30,New Caledonia,Martinique,Martinique,,0,0,1,2000,second
+2009-06-26,Provence,Sápmi,Sápmi,,0,0,1,2000,second
+2009-07-23,Costa Rica,Mexico,Mexico,Mexico,1,0,1,2000,first
+2009-10-28,Zimbabwe,South Africa,Zimbabwe,,0,1,1,2000,second
+2010-01-25,Zambia,Nigeria,Nigeria,Zambia,0,0,1,2010,second
+2010-05-21,Corsica,Gabon,Corsica,,0,1,1,2010,second
+2010-06-29,Paraguay,Japan,Paraguay,Paraguay,1,1,1,2010,first
+2010-07-02,Uruguay,Ghana,Uruguay,Uruguay,1,1,1,2010,first
+2010-09-22,French Guiana,Mayotte,Mayotte,,0,0,1,2010,second
+2010-09-23,Guadeloupe,New Caledonia,New Caledonia,,0,0,1,2010,second
+2010-09-26,Guadeloupe,Tahiti,Tahiti,,0,0,1,2010,second
+2010-09-29,New Caledonia,Tahiti,Tahiti,,0,0,1,2010,second
+2010-10-02,Réunion,Martinique,Martinique,,0,0,1,2010,second
+2011-01-25,Japan,South Korea,Japan,Japan,1,1,1,2010,first
+2011-02-08,Romania,Ukraine,Ukraine,,0,0,1,2010,second
+2011-02-09,Sweden,Ukraine,Ukraine,,0,0,1,2010,second
+2011-05-08,Guernsey,Jersey,Jersey,,0,0,1,2010,second
+2011-06-08,Uruguay,Netherlands,Uruguay,Netherlands,0,1,1,2010,second
+2011-06-18,Costa Rica,Honduras,Honduras,Costa Rica,0,0,1,2010,second
+2011-06-19,Panama,El Salvador,Panama,Panama,1,1,1,2010,first
+2011-06-29,Saare County,Åland Islands,Åland Islands,,0,0,1,2010,second
+2011-06-30,Isle of Man,Menorca,Menorca,,0,0,1,2010,second
+2011-07-12,Saint Lucia,Aruba,Saint Lucia,,0,1,1,2010,second
+2011-07-16,Argentina,Uruguay,Uruguay,Argentina,0,0,1,2010,second
+2011-07-17,Brazil,Paraguay,Paraguay,Brazil,0,0,1,2010,second
+2011-07-20,Paraguay,Venezuela,Paraguay,Paraguay,1,1,1,2010,first
+2011-08-11,Mayotte,Mauritius,Mauritius,,0,0,1,2010,second
+2011-08-13,Seychelles,Mauritius,Seychelles,,0,1,1,2010,second
+2012-02-05,Gabon,Mali,Mali,Gabon,0,0,1,2010,second
+2012-02-12,Zambia,Ivory Coast,Zambia,Ivory Coast,0,1,1,2010,second
+2012-06-03,Finland,Latvia,Latvia,Finland,0,0,1,2010,second
+2012-06-17,Mozambique,Tanzania,Mozambique,,0,1,1,2010,second
+2012-06-24,England,Italy,Italy,Italy,1,0,1,2010,first
+2012-06-27,Portugal,Spain,Spain,Spain,1,0,1,2010,first
+2012-08-25,Alderney,Sealand,Sealand,,0,0,1,2010,second
+2012-09-02,India,Cameroon,India,,0,1,1,2010,second
+2012-09-29,Réunion,Martinique,Réunion,,0,1,1,2010,second
+2012-10-13,Uganda,Zambia,Zambia,,0,0,1,2010,second
+2012-11-21,Argentina,Brazil,Brazil,Argentina,0,0,1,2010,second
+2013-01-23,Sweden,North Korea,Sweden,,0,1,1,2010,second
+2013-02-02,South Africa,Mali,Mali,South Africa,0,0,1,2010,second
+2013-02-06,Burkina Faso,Ghana,Burkina Faso,Ghana,0,1,1,2010,second
+2013-06-27,Spain,Italy,Spain,Italy,0,1,1,2010,second
+2013-06-30,Uruguay,Italy,Italy,Uruguay,0,0,1,2010,second
+2013-07-13,Zimbabwe,Malawi,Zimbabwe,,0,1,1,2010,second
+2013-07-14,Angola,Lesotho,Lesotho,,0,0,1,2010,second
+2013-07-17,Zambia,South Africa,Zambia,,0,1,1,2010,second
+2014-05-05,Sealand,Chagos Islands,Chagos Islands,,0,0,1,2010,second
+2014-05-29,Latvia,Estonia,Latvia,Estonia,0,1,1,2010,second
+2014-06-04,Abkhazia,South Ossetia,South Ossetia,,0,0,1,2010,second
+2014-06-04,Ellan Vannin,Iraqi Kurdistan,Ellan Vannin,,0,1,1,2010,second
+2014-06-05,Padania,Abkhazia,Padania,,0,1,1,2010,second
+2014-06-05,Occitania,Iraqi Kurdistan,Iraqi Kurdistan,,0,0,1,2010,second
+2014-06-07,Padania,Iraqi Kurdistan,Padania,,0,1,1,2010,second
+2014-06-08,County of Nice,Ellan Vannin,County of Nice,,0,1,1,2010,second
+2014-06-28,Brazil,Chile,Brazil,Brazil,1,1,1,2010,first
+2014-06-29,Costa Rica,Greece,Costa Rica,Costa Rica,1,1,1,2010,first
+2014-07-05,Netherlands,Costa Rica,Netherlands,Costa Rica,0,1,1,2010,second
+2014-07-09,Netherlands,Argentina,Argentina,Netherlands,0,0,1,2010,second
+2015-01-23,Iran,Iraq,Iraq,Iran,0,0,1,2010,second
+2015-01-23,Japan,United Arab Emirates,United Arab Emirates,Japan,0,0,1,2010,second
+2015-01-30,Curaçao,Aruba,Aruba,,0,0,1,2010,second
+2015-02-07,Equatorial Guinea,DR Congo,DR Congo,Equatorial Guinea,0,0,1,2010,second
+2015-02-08,Ivory Coast,Ghana,Ivory Coast,Ghana,0,1,1,2010,second
+2015-05-24,Zambia,Namibia,Namibia,,0,0,1,2010,second
+2015-05-24,South Africa,Botswana,Botswana,,0,0,1,2010,second
+2015-05-25,Mozambique,Malawi,Mozambique,,0,1,1,2010,second
+2015-05-27,South Africa,Malawi,Malawi,,0,0,1,2010,second
+2015-06-21,Ellan Vannin,Felvidék,Ellan Vannin,,0,1,1,2010,second
+2015-06-26,Argentina,Colombia,Argentina,Colombia,0,1,1,2010,second
+2015-06-27,Brazil,Paraguay,Paraguay,Brazil,0,0,1,2010,second
+2015-07-02,Gibraltar,Åland Islands,Åland Islands,,0,0,1,2010,second
+2015-07-04,Chile,Argentina,Chile,Chile,1,1,1,2010,first
+2015-07-19,Trinidad and Tobago,Panama,Panama,Panama,1,0,1,2010,first
+2015-07-25,United States,Panama,Panama,United States,0,0,1,2010,second
+2015-10-13,El Salvador,Guatemala,Guatemala,,0,0,1,2010,second
+2016-05-27,Corsica,Basque Country,Basque Country,,0,0,1,2010,second
+2016-06-01,United Koreans in Japan,Northern Cyprus,Northern Cyprus,,0,0,1,2010,second
+2016-06-02,Iraqi Kurdistan,Padania,Padania,,0,0,1,2010,second
+2016-06-03,Bosnia and Herzegovina,Denmark,Bosnia and Herzegovina,,0,1,1,2010,second
+2016-06-03,Thailand,Syria,Thailand,,0,1,1,2010,second
+2016-06-03,Vietnam,Hong Kong,Vietnam,,0,1,1,2010,second
+2016-06-03,Iraqi Kurdistan,Western Armenia,Western Armenia,,0,0,1,2010,second
+2016-06-03,Chagos Islands,Raetia,Raetia,,0,0,1,2010,second
+2016-06-04,United Koreans in Japan,Iraqi Kurdistan,United Koreans in Japan,United Koreans in Japan,1,1,1,2010,first
+2016-06-05,Abkhazia,Panjab,Abkhazia,,0,1,1,2010,second
+2016-06-11,Papua New Guinea,New Zealand,New Zealand,New Zealand,1,0,1,2010,first
+2016-06-17,Peru,Colombia,Colombia,Colombia,1,0,1,2010,first
+2016-06-18,Namibia,Botswana,Botswana,,0,0,1,2010,second
+2016-06-18,South Africa,Lesotho,South Africa,,0,1,1,2010,second
+2016-06-19,Zambia,Eswatini,Eswatini,,0,0,1,2010,second
+2016-06-22,Botswana,DR Congo,Botswana,,0,1,1,2010,second
+2016-06-25,Switzerland,Poland,Poland,Switzerland,0,0,1,2010,second
+2016-06-26,Argentina,Chile,Chile,Chile,1,0,1,2010,first
+2016-06-30,Poland,Portugal,Portugal,Portugal,1,0,1,2010,first
+2016-07-02,Germany,Italy,Germany,Italy,0,1,1,2010,second
+2016-08-01,Felvidék,Kárpátalja,Felvidék,,0,1,1,2010,second
+2017-01-11,Chile,Croatia,Chile,,0,1,1,2010,second
+2017-01-14,China PR,Croatia,China PR,,0,1,1,2010,second
+2017-01-28,Senegal,Cameroon,Cameroon,Senegal,0,0,1,2010,second
+2017-02-01,Burkina Faso,Egypt,Egypt,Egypt,1,0,1,2010,first
+2017-06-09,Kárpátalja,Ellan Vannin,Kárpátalja,,0,1,1,2010,second
+2017-06-09,Padania,Abkhazia,Padania,,0,1,1,2010,second
+2017-06-10,Northern Cyprus,Padania,Padania,,0,0,1,2010,second
+2017-06-28,Portugal,Chile,Chile,Chile,1,0,1,2010,first
+2017-06-29,Hitra,Western Isles,Western Isles,,0,0,1,2010,second
+2017-06-29,Greenland,Menorca,Greenland,,0,1,1,2010,second
+2017-07-01,Namibia,Lesotho,Lesotho,,0,0,1,2010,second
+2017-07-07,Tanzania,Lesotho,Tanzania,,0,1,1,2010,second
+2017-07-16,Thailand,Belarus,Thailand,,0,1,1,2010,second
+2018-03-21,South Africa,Angola,South Africa,,0,1,1,2010,second
+2018-03-21,Zambia,Zimbabwe,Zambia,,0,1,1,2010,second
+2018-03-22,Thailand,Gabon,Thailand,,0,1,1,2010,second
+2018-03-24,Angola,Zimbabwe,Angola,,0,1,1,2010,second
+2018-06-02,Zambia,Namibia,Zambia,,0,1,1,2010,second
+2018-06-03,Andorra,Cape Verde,Cape Verde,,0,0,1,2010,second
+2018-06-03,South Africa,Madagascar,Madagascar,,0,0,1,2010,second
+2018-06-03,Zimbabwe,Botswana,Zimbabwe,,0,1,1,2010,second
+2018-06-05,Matabeleland,Kabylia,Kabylia,,0,0,1,2010,second
+2018-06-06,Lesotho,Zimbabwe,Zimbabwe,,0,0,1,2010,second
+2018-06-09,Tibet,United Koreans in Japan,United Koreans in Japan,,0,0,1,2010,second
+2018-06-09,Panjab,Cascadia,Panjab,,0,1,1,2010,second
+2018-06-09,Padania,Székely Land,Padania,,0,1,1,2010,second
+2018-06-09,Northern Cyprus,Kárpátalja,Kárpátalja,,0,0,1,2010,second
+2018-07-01,Russia,Spain,Russia,Spain,0,1,1,2010,second
+2018-07-01,Croatia,Denmark,Croatia,Denmark,0,1,1,2010,second
+2018-07-03,Colombia,England,England,Colombia,0,0,1,2010,second
+2018-07-07,Russia,Croatia,Croatia,Russia,0,0,1,2010,second
+2019-01-20,Jordan,Vietnam,Vietnam,Vietnam,1,0,1,2010,first
+2019-01-21,Australia,Uzbekistan,Australia,Australia,1,1,1,2010,first
+2019-03-23,Oman,Singapore,Oman,,0,1,1,2010,second
+2019-05-11,Guernsey,Jersey,Jersey,,0,0,1,2010,second
+2019-06-01,Lesotho,Uganda,Lesotho,,0,1,1,2010,second
+2019-06-02,South Africa,Botswana,Botswana,,0,0,1,2010,second
+2019-06-02,Zambia,Malawi,Zambia,,0,1,1,2010,second
+2019-06-04,South Africa,Uganda,South Africa,,0,1,1,2010,second
+2019-06-05,Zimbabwe,Zambia,Zambia,,0,0,1,2010,second
+2019-06-06,Abkhazia,Western Armenia,Western Armenia,,0,0,1,2010,second
+2019-06-06,South Ossetia,Chameria,South Ossetia,,0,1,1,2010,second
+2019-06-07,Lesotho,Zimbabwe,Zimbabwe,,0,0,1,2010,second
+2019-06-07,South Africa,Malawi,South Africa,,0,1,1,2010,second
+2019-06-08,Abkhazia,Chameria,Abkhazia,,0,1,1,2010,second
+2019-06-09,Switzerland,England,England,England,1,0,1,2010,first
+2019-06-27,Brazil,Paraguay,Brazil,Paraguay,0,1,1,2010,second
+2019-06-28,Colombia,Chile,Chile,Colombia,0,0,1,2010,second
+2019-06-29,Mexico,Costa Rica,Mexico,Mexico,1,1,1,2010,first
+2019-06-29,Uruguay,Peru,Peru,Uruguay,0,0,1,2010,second
+2019-07-05,Morocco,Benin,Benin,Benin,1,0,1,2010,first
+2019-07-07,Madagascar,DR Congo,Madagascar,Madagascar,1,1,1,2010,first
+2019-07-08,Ghana,Tunisia,Tunisia,Ghana,0,0,1,2010,second
+2019-07-11,Ivory Coast,Algeria,Algeria,Algeria,1,0,1,2010,first
+2019-07-28,Mauritius,Réunion,Réunion,,0,0,1,2010,second
+2019-09-08,Tanzania,Burundi,Tanzania,Tanzania,1,1,1,2010,first
+2019-10-13,Chad,Liberia,Chad,,0,1,1,2010,second
+2019-10-13,Gambia,Djibouti,Gambia,,0,1,1,2010,second
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,Northern Ireland,Bosnia and Herzegovina,0,0,1,2020,second
+2020-10-08,Slovakia,Republic of Ireland,Slovakia,Slovakia,1,1,1,2020,first
+2020-10-08,Scotland,Israel,Scotland,Scotland,1,1,1,2020,first
+2020-11-12,Serbia,Scotland,Scotland,Scotland,1,0,1,2020,first
+2021-06-03,Mexico,Costa Rica,Mexico,Mexico,1,1,1,2020,first
+2021-06-06,Honduras,Costa Rica,Honduras,Costa Rica,0,1,1,2020,second
+2021-06-28,France,Switzerland,Switzerland,Switzerland,1,0,1,2020,first
+2021-07-02,Peru,Paraguay,Peru,Paraguay,0,1,1,2020,second
+2021-07-02,Switzerland,Spain,Spain,Spain,1,0,1,2020,first
+2021-07-03,Uruguay,Colombia,Colombia,Colombia,1,0,1,2020,first
+2021-07-06,Italy,Spain,Italy,Italy,1,1,1,2020,first
+2021-07-06,Trinidad and Tobago,French Guiana,Trinidad and Tobago,French Guiana,0,1,1,2020,second
+2021-07-06,Argentina,Colombia,Argentina,Colombia,0,1,1,2020,second
+2021-07-06,Guatemala,Guadeloupe,Guadeloupe,Guatemala,0,0,1,2020,second
+2021-07-11,England,Italy,Italy,Italy,1,0,1,2020,first
+2021-07-16,Senegal,Eswatini,Senegal,Eswatini,0,1,1,2020,second
+2021-07-18,Eswatini,Mozambique,Eswatini,Mozambique,0,1,1,2020,second
+2021-07-18,South Africa,Senegal,South Africa,South Africa,1,1,1,2020,first
+2021-11-19,Sri Lanka,Seychelles,Seychelles,,0,0,1,2020,second
+2021-12-11,Morocco,Algeria,Algeria,Algeria,1,0,1,2020,first
+2021-12-18,Qatar,Egypt,Qatar,Qatar,1,1,1,2020,first
+2022-01-23,Burkina Faso,Gabon,Burkina Faso,Gabon,0,1,1,2020,second
+2022-01-26,Ivory Coast,Egypt,Egypt,Ivory Coast,0,0,1,2020,second
+2022-01-26,Mali,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,1,0,1,2020,first
+2022-02-03,Cameroon,Egypt,Egypt,Cameroon,0,0,1,2020,second
+2022-02-05,Cameroon,Burkina Faso,Cameroon,Cameroon,1,1,1,2020,first
+2022-02-06,Senegal,Egypt,Senegal,Senegal,1,1,1,2020,first
+2022-03-25,Tajikistan,Uganda,Uganda,,0,0,1,2020,second
+2022-03-29,Kazakhstan,Moldova,Kazakhstan,Moldova,0,1,1,2020,second
+2022-03-29,Senegal,Egypt,Senegal,Senegal,1,1,1,2020,first
+2022-06-13,Australia,Peru,Australia,Australia,1,1,1,2020,first
+2022-06-14,Chile,Ghana,Ghana,Chile,0,0,1,2020,second
+2022-07-12,Zambia,Botswana,Zambia,,0,1,1,2020,second
+2022-07-13,South Africa,Mozambique,Mozambique,,0,0,1,2020,second
+2022-07-13,Senegal,Eswatini,Senegal,,0,1,1,2020,second
+2022-07-17,Mozambique,Senegal,Senegal,,0,0,1,2020,second
+2022-09-22,Thailand,Malaysia,Malaysia,,0,0,1,2020,second
+2022-09-23,Iraq,Oman,Oman,,0,0,1,2020,second
+2022-09-25,Malaysia,Tajikistan,Tajikistan,,0,0,1,2020,second
+2022-11-16,Lithuania,Iceland,Iceland,Lithuania,0,0,1,2020,second
+2022-11-16,Latvia,Estonia,Latvia,Latvia,1,1,1,2020,first
+2022-11-19,Latvia,Iceland,Iceland,Iceland,1,0,1,2020,first
+2022-12-05,Japan,Croatia,Croatia,Japan,0,0,1,2020,second
+2022-12-06,Morocco,Spain,Morocco,Morocco,1,1,1,2020,first
+2022-12-09,Croatia,Brazil,Croatia,Croatia,1,1,1,2020,first
+2022-12-09,Netherlands,Argentina,Argentina,Netherlands,0,0,1,2020,second
+2022-12-18,Argentina,France,Argentina,France,0,1,1,2020,second
+2023-06-16,Curaçao,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,1,0,1,2020,first
+2023-06-17,Guyana,Grenada,Guyana,Guyana,1,1,1,2020,first
+2023-06-17,Suriname,Puerto Rico,Puerto Rico,Suriname,0,0,1,2020,second
+2023-06-18,Croatia,Spain,Spain,Croatia,0,0,1,2020,second
+2023-06-20,Saint Kitts and Nevis,French Guiana,Saint Kitts and Nevis,French Guiana,0,1,1,2020,second
+2023-07-01,India,Lebanon,India,India,1,1,1,2020,first
+2023-07-04,India,Kuwait,India,India,1,1,1,2020,first
+2023-07-09,United States,Canada,United States,Canada,0,1,1,2020,second
+2023-07-09,Orkney,Greenland,Greenland,,0,0,1,2020,second
+2023-07-12,United States,Panama,Panama,United States,0,0,1,2020,second
+2023-07-13,Åland Islands,Falkland Islands,Åland,Åland,1,0,1,2020,first
+2023-07-14,Malawi,Lesotho,Lesotho,,0,0,1,2020,second
+2023-07-16,South Africa,Malawi,South Africa,,0,1,1,2020,second
+2023-09-07,Iraq,India,Iraq,India,0,1,1,2020,second
+2023-09-10,Thailand,Iraq,Iraq,Thailand,0,0,1,2020,second
+2023-10-13,Iraq,Qatar,Qatar,Qatar,1,0,1,2020,first
+2023-11-21,Mexico,Honduras,Mexico,Mexico,1,1,1,2020,first
+2023-12-02,Solomon Islands,New Caledonia,New Caledonia,,0,0,1,2020,second
+2024-01-28,Egypt,DR Congo,DR Congo,Egypt,0,0,1,2020,second
+2024-01-28,Tajikistan,United Arab Emirates,Tajikistan,Tajikistan,1,1,1,2020,first
+2024-01-29,Ivory Coast,Senegal,Ivory Coast,Senegal,0,1,1,2020,second
+2024-01-30,Saudi Arabia,South Korea,South Korea,Saudi Arabia,0,0,1,2020,second
+2024-01-31,Iran,Syria,Iran,Iran,1,1,1,2020,first
+2024-02-03,Cape Verde,South Africa,South Africa,Cape Verde,0,0,1,2020,second
+2024-02-03,Qatar,Uzbekistan,Qatar,Uzbekistan,0,1,1,2020,second
+2024-02-07,Nigeria,South Africa,Nigeria,Nigeria,1,1,1,2020,first
+2024-03-23,Tunisia,Croatia,Croatia,Croatia,1,0,1,2020,first
+2024-03-26,New Zealand,Tunisia,Tunisia,New Zealand,0,0,1,2020,second
+2024-03-26,Wales,Poland,Poland,Poland,1,0,1,2020,first
+2024-03-26,Georgia,Greece,Georgia,Georgia,1,1,1,2020,first
+2024-03-26,Turks and Caicos Islands,Anguilla,Anguilla,Turks and Caicos Islands,0,0,1,2020,second
+2024-03-26,British Virgin Islands,United States Virgin Islands,British Virgin Islands,British Virgin Islands,1,1,1,2020,first
+2024-06-11,Lithuania,Estonia,Estonia,Lithuania,0,0,1,2020,second
+2024-07-01,Portugal,Slovenia,Portugal,Slovenia,0,1,1,2020,second
+2024-07-04,Argentina,Ecuador,Argentina,Argentina,1,1,1,2020,first
+2024-07-05,Portugal,France,France,France,1,0,1,2020,first
+2024-07-05,Venezuela,Canada,Canada,Venezuela,0,0,1,2020,second
+2024-07-06,England,Switzerland,England,England,1,1,1,2020,first
+2024-07-06,Uruguay,Brazil,Uruguay,Uruguay,1,1,1,2020,first
+2024-07-13,Canada,Uruguay,Uruguay,Canada,0,0,1,2020,second
+2024-09-08,Tajikistan,Philippines,Tajikistan,,0,1,1,2020,second
+2024-09-10,Cambodia,Sri Lanka,Sri Lanka,Cambodia,0,0,1,2020,second
+2025-06-08,Portugal,Spain,Portugal,Portugal,1,1,1,2020,first
+2025-06-28,Panama,Honduras,Honduras,Panama,0,0,1,2020,second
+2025-06-29,Canada,Guatemala,Guatemala,Canada,0,0,1,2020,second
+2025-06-29,United States,Costa Rica,United States,Costa Rica,0,1,1,2020,second
