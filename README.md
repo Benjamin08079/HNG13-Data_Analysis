@@ -21,3 +21,9 @@ During my HNG Data Analytics Internship, I worked on real-world data projects co
 - SEO Analytics (Power BI): Analyzed keyword performance in Nigerian consumer banking.
 
 - Palm Oil Profitability Analysis (Power BI): Researched and visualized profitability trends across Nigerian states.
+
+  # Tools & Skills
+
+Excel · SQL · Python · Power BI · Geospatial Analysis · Data Cleaning · EDA · Dashboarding
+
+This version is:
